@@ -1,5 +1,4 @@
 An
-Anh
 Ban
 Binh
 Bich
@@ -28,7 +27,6 @@ Diep
 Dieu
 Du
 Dung
-Duy
 Duyen
 Dan
 Da
@@ -38,10 +36,8 @@ Gia
 Giang
 Giao
 Giang
-Hieu
 Hien
 Hieu
-Hiep
 Hoa
 Hoan
 Hoai
@@ -55,9 +51,6 @@ Ha
 Ham
 Han
 Hoa
-Huong
-Huong
-Huong
 Huong
 Ha
 Hac
@@ -139,13 +132,11 @@ Nu
 Oanh
 Phi
 Phong
-Phuc
 Phuong
 Phuoc
 Phuong
 Phung
 Quyen
-Quan
 Que
 Quynh
 Sa
@@ -1594,7 +1585,6 @@ Diệp
 Diệu
 Du
 Dung
-Duy
 Duyên
 Dân
 Dã
@@ -1604,7 +1594,6 @@ Gia
 Giang
 Giao
 Giáng
-Hiếu
 Hiền
 Hiểu
 Hiệp
